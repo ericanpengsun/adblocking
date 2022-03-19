@@ -47,3 +47,4 @@ www.nytimes.com##div#bottom.ad.bottom-wrapper.css-rfqw0c
 ! 2021-12-15 https://www.royalroad.com
 www.royalroad.com##.fiction-list-item.text-center.portlet
 
+meter-svc.nytimes.com
