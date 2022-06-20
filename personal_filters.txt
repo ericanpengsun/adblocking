@@ -48,3 +48,8 @@ www.nytimes.com##div#bottom.ad.bottom-wrapper.css-rfqw0c
 www.royalroad.com##.fiction-list-item.text-center.portlet
 
 meter-svc.nytimes.com
+
+! 2022-06-17 https://www.economist.com
+||cdn.tinypass.com/api/tinypass.min.js$script,domain=www.economist.com
+||buy.tinypass.com/api/v3/anon/captcha/get.js?callback=jsonpCallback&aid=CgenXrprgH$script,domain=www.economist.com
+||c2.piano.io/xbuilder/experience/execute?aid=CgenXrprgH$xhr,domain=www.economist.com
