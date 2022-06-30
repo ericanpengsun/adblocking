@@ -53,3 +53,9 @@ meter-svc.nytimes.com
 ||cdn.tinypass.com/api/tinypass.min.js$script,domain=www.economist.com
 ||buy.tinypass.com/api/v3/anon/captcha/get.js?callback=jsonpCallback&aid=CgenXrprgH$script,domain=www.economist.com
 ||c2.piano.io/xbuilder/experience/execute?aid=CgenXrprgH$xhr,domain=www.economist.com
+
+! 2022-01-18 https://www.washingtonpost.com
+||www.washingtonpost.com/subscribe/paywall/get-paywall?destination=https%3A%2F%2Fwww.washingtonpost.com%2Fnation%2F2022%2F01%2F18%2Fflorida-governor-proposes-special-police-agency-monitor-elections%2F&section=national&commercial_node=%2Fnational&ct_tags=story-has-edit-branch%2Cmethode-draft%2CCreated+from+Template+ID+JOXVKMHVWNAAVBC7BO63VPZ7V4&sct_tags=default&content_type=article&arcId=SXHG6TG4BNFBHPBPLTMPMOFGLY&action=3&refererType=DIRECT&asJS=1$xhr,domain=www.washingtonpost.com
+||www.washingtonpost.com/pwapiv2/article$xhr,domain=www.washingtonpost.com
+||subscribe.washingtonpost.com/offers/service/get-mapped-adot-offer/hd_sub_promo$xhr,domain=www.washingtonpost.com
+||subscribe.washingtonpost.com/user/get$xhr,domain=www.washingtonpost.com
