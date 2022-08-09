@@ -60,3 +60,7 @@ meter-svc.nytimes.com
 
 ! 2022-08-09 https://www.theatlantic.com
 ||cdn.theatlantic.com/_next/static/chunks/5908.b7d7447cbc526d42.js$script,domain=www.theatlantic.com
+
+! 2022-08-09 https://www.wired.com
+||journey.wired.com/build-c9e2cf278c74a4d89e7ee142489fbd7c.js$script,domain=www.wired.com
+||news.google.com/swg/js/v1/swg.js$script,domain=www.wired.com
