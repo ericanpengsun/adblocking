@@ -57,3 +57,6 @@ meter-svc.nytimes.com
 ! 2022-07-01 https://www.washingtonpost.com
 ||www.washingtonpost.com/tetro/evaluate$xhr,domain=www.washingtonpost.com
 ||static.scroll.com/js/scroll.js$script,domain=www.washingtonpost.com
+
+! 2022-08-09 https://www.theatlantic.com
+||cdn.theatlantic.com/_next/static/chunks/5908.b7d7447cbc526d42.js$script,domain=www.theatlantic.com
