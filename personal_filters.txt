@@ -10,7 +10,6 @@ www.royalroad.com##.text-center.light.portlet
 ! 2020-12-10 https://www.royalroad.com
 ||www.royalroad.com/a/c?w=300&h=250&r=0.5162948857987335$subdocument
 ||www.royalroad.com/a/c?w=300&h=250&r=0.5162948857987335$subdocument
-www.royalroad.com##.chapter-page.container > div > .wide
 
 ! 2021-08-09 https://typemoon.fandom.com
 typemoon.fandom.com##.is-loading.ic-ad-slot-placeholder.incontent-boxad.ad-slot-wrapper
