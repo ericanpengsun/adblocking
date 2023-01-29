@@ -6,8 +6,6 @@ www.royalroad.com##.col-sm-12 > .text-center.light.portlet
 www.royalroad.com##div.ac.text-center.profile-sidebar-portlet.light.portlet:nth-of-type(3)
 www.royalroad.com##.visible-sm.visible-xs > div.ac.text-center.profile-sidebar-portlet.light.portlet
 www.royalroad.com##.text-center.light.portlet
-www.royalroad.com##.text-center.wide
-www.royalroad.com##.text-center.uppercase.bold
 
 ! 2020-12-10 https://www.royalroad.com
 ||www.royalroad.com/a/c?w=300&h=250&r=0.5162948857987335$subdocument
@@ -64,3 +62,6 @@ meter-svc.nytimes.com
 ! 2022-08-09 https://www.wired.com
 ||journey.wired.com/build-c9e2cf278c74a4d89e7ee142489fbd7c.js$script,domain=www.wired.com
 ||news.google.com/swg/js/v1/swg.js$script,domain=www.wired.com
+
+! 2023-01-28 https://www.royalroad.com
+www.royalroad.com##html.wf-ubuntu-n4-active.wf-ubuntucondensed-n4-active.wf-roboto-n3-active.wf-roboto-n4-active.wf-roboto-n5-active.wf-roboto-n6-active.wf-roboto-n7-active.wf-merriweather-n3-active.wf-merriweather-n4-active.wf-merriweather-n5-active.wf-merriweather-n6-active.wf-merriweather-n7-active.wf-active > body.page-container-bg-solid.light-theme.chapter-page-body.dim-bg-0 > div.page-container > div.page-content-wrapper > div.page-content > div.container.chapter-page > div > div.portlet.light.chapter.font-size-14.width-100.font-family-default.indent-default.paragraph-spacing-30 > div.portlet-body > h6.bold.uppercase.text-center
