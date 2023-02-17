@@ -64,3 +64,13 @@ www.royalroad.com##html.wf-ubuntu-n4-active.wf-ubuntucondensed-n4-active.wf-robo
 www.royalroad.com##.chapter-page.container > div > .wide
 www.royalroad.com##.chapter-page.container > div > .wide
 www.royalroad.com##.chapter-page.container > div > .wide
+
+! 2020-10-22 https://www.royalroad.com
+www.royalroad.com##.col-sm-12 > .text-center.light.portlet
+www.royalroad.com##div.ac.text-center.profile-sidebar-portlet.light.portlet:nth-of-type(3)
+www.royalroad.com##.visible-sm.visible-xs > div.ac.text-center.profile-sidebar-portlet.light.portlet
+www.royalroad.com##.text-center.light.portlet
+
+! 2020-12-10 https://www.royalroad.com
+||www.royalroad.com/a/c?w=300&h=250&r=0.5162948857987335$subdocument
+||www.royalroad.com/a/c?w=300&h=250&r=0.5162948857987335$subdocument
