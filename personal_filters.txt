@@ -76,6 +76,7 @@ www.royalroad.com##.text-center.light.portlet
 ||www.royalroad.com/a/c?w=300&h=250&r=0.5162948857987335$subdocument
 
 ! 2023-03-02 https://www.theatlantic.com
+||sparklingshelf.com^
 theatlantic.com##+js(cookie-remover, articleViews)
 theatlantic.com##[class^="Paywall"]
 www.theatlantic.com##div.ArticleInjector_clsAvoider__pXehw
