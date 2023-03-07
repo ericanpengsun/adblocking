@@ -80,3 +80,45 @@ www.royalroad.com##.text-center.light.portlet
 theatlantic.com##+js(cookie-remover, articleViews)
 theatlantic.com##[class^="Paywall"]
 www.theatlantic.com##div.ArticleInjector_clsAvoider__pXehw
+
+! Washington Post (washingtonpost.com)
+||washingtonpost.com/pwapiv2/
+||washingtonpost.com/subscribe/paywall/
+||washingtonpost.com/subscribe/pw/
+||washingtonpost.com/subscribe/logging/
+||washingtonpost.com/wp-stat/pb/prod/pmbl.txt
+||washingtonpost.com/pb/gr/c/default/*/identity-management-$script
+||washingtonpost.com/pb/*/subscription-acquisition
+||d2p9l91d5g68ru.cloudfront.net/PrerollPlugin/
+washingtonpost.com##+js(set, $.prototype.wpPreroll, noopFunc)
+||subscribe.washingtonpost.com^
+@@||subscribe.washingtonpost.com/user/$xhr,1p
+washingtonpost.com###leaderboard-wrapper
+washingtonpost.com##.codedNewsletter.pb-f-page-newsletter-inLine
+washingtonpost.com##.dn.db-ns[style^="height:"][style*="1250px"]
+washingtonpost.com##.interstitial.hide-for-print
+washingtonpost.com##.pb-f-ads-arcads
+washingtonpost.com##.pb-f-page-subscription-remind-later
+washingtonpost.com##.pb-lgmod
+washingtonpost.com##.promo
+washingtonpost.com##[class^="pb-f-ad-"]
+washingtonpost.com##[data-chain-name="brandconnect-chain"]
+washingtonpost.com##[data-chain-name^="ad-group"]
+washingtonpost.com##[data-feature-id^="ad/"]
+washingtonpost.com##[data-feature-id$="-pre-roll"]
+washingtonpost.com##[data-qa="interstitial-link-wrapper"]
+washingtonpost.com##[data-qa="newsletter"]
+washingtonpost.com##[data-qa="inline-subs-bg"]:upward(.hide-for-print)
+washingtonpost.com##+js(set, wp_pb.StaticMethods.parametrizeLinks.getRules, noopFunc)
+
+||washingtonpost.com/tetro/metering/evaluate$xmlhttprequest,~third-party
+
+! Condé Nast
+.com/journey/compiler/build-*.js$script,domain=architecturaldigest.com|bonappetit.com|gq.com|newyorker.com|vanityfair.com|vogue.com|wired.com
+architecturaldigest.com,bonappetit.com,gq.com,newyorker.com,vanityfair.com,vogue.com,wired.com##+js(cookie-remover, /pay_ent_/)
+architecturaldigest.com,bonappetit.com,gq.com,newyorker.com,vanityfair.com,vogue.com,wired.com##+js(ra, subscriptions-section, [subscriptions-section="content"])
+architecturaldigest.com,bonappetit.com,gq.com,newyorker.com,vanityfair.com,vogue.com,wired.com##[subscriptions-section="content-not-granted"]
+
+! Harper's Magazine
+harpers.org##+js(cookie-remover, hr_session)
+||harpers.org/wp-content/themes/timber/static/js/modal*.js
