@@ -124,4 +124,4 @@ harpers.org##+js(cookie-remover, hr_session)
 ||harpers.org/wp-content/themes/timber/static/js/modal*.js
 
 ! New York Times Fix
-nytimes.com##+js(json-prune, data.user.messageSelection.input)
+nytimes.com##+js(json-prune, data.user)
