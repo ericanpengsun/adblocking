@@ -125,3 +125,7 @@ harpers.org##+js(cookie-remover, hr_session)
 
 ! New York Times Fix
 nytimes.com##+js(json-prune, data.user)
+
+! Economist Interactive Fix
+economist.com##div.paywall,svelte-scroller-outer
+economist.com##html:style(overflow: auto !important;)
