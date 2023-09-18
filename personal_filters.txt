@@ -129,3 +129,8 @@ nytimes.com##+js(json-prune, data.user)
 ! Economist Interactive Fix
 economist.com##div.paywall,svelte-scroller-outer
 economist.com##html:style(overflow: auto !important;)
+
+! Foreign Affairs
+||foreignaffairs.com/modules/custom/fa_paywall_js/js/paywall.js$script,~third-party
+foreignaffairs.com##.article-dropcap:style(height: auto !important;)
+foreignaffairs.com##.paywall,.loading-indicator,.messages--container--bottom
