@@ -156,7 +156,7 @@ nytimes.com##div[data-testid="inline-message"]
 nytimes.com##div[data-testid="expanded-dock"]
 nytimes.com##div[data-test-id="RecommendedNewsletter"]
 nytimes.com##.gdpr
-nytimes.com###credential_picker_container
+! nytimes.com###credential_picker_container
 nytimes.com##[id*="story-ad-"][id*="wrapper"]
 nytimes.com##+js(no-fetch-if, headers:x-nyt-entitlements)
 !#if env_chromium
