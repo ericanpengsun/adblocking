@@ -185,3 +185,6 @@ nytimes.com##body[class]:style(overflow:visible !important; position:relative !i
 ! Condé Nast 2
 /journey/compiler/build-*.js$script,~third-party,domain=architecturaldigest.com|bonappetit.com|cntraveler.com|epicurious.com|gq.com|newyorker.com|vanityfair.com|vogue.co.uk|vogue.com|voguebusiness.com|wired.com
 voguebusiness.com##+js(cookie-remover, userId)
+
+! Washington Post 2
+||washingtonpost.com/subscribe/static/tetro-client/fusion/tetro.min.js$script,~third-party
