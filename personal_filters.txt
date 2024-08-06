@@ -165,3 +165,23 @@ nytimes.com##+js(set, navigator.storage.estimate, undefined)
 !#if env_firefox
 nytimes.com##+js(set, webkitRequestFileSystem, noopFunc)
 !#endif
+
+! The Atlantic 2
+theatlantic.com##+js(cookie-remover, articleViews)
+theatlantic.com##img[class*="Image_lazy__"]:style(opacity: 1 !important)
+theatlantic.com##aside#paywall,div[class^="LostInventoryMessage_"]
+
+! The New York Times 4
+||meter-svc.nytimes.com/meter.js$xmlhttprequest,~third-party
+||nytimes.com/graphql/v2$xmlhttprequest,~third-party
+||mwcm.nyt.com/$script,domain=nytimes.com
+nytimes.com##div[data-testid="inline-message"],div[id^="ad-"],div#dock-container,div.pz-ad-box
+||cooking.nytimes.com/api/*/access$xmlhttprequest,~third-party
+! athletic
+nytimes.com##div[id^="slideup-"],div[id*="overlay"],div#article-container-grid div:empty:not([data-rjs]),#paywall,div.ad-container
+nytimes##iframe[src*="regwall"]:remove()
+nytimes.com##body[class]:style(overflow:visible !important; position:relative !important)
+
+! Condé Nast 2
+/journey/compiler/build-*.js$script,~third-party,domain=architecturaldigest.com|bonappetit.com|cntraveler.com|epicurious.com|gq.com|newyorker.com|vanityfair.com|vogue.co.uk|vogue.com|voguebusiness.com|wired.com
+voguebusiness.com##+js(cookie-remover, userId)
